@@ -1,0 +1,32 @@
+.button {
+  border: none;
+  background-color: #26a69a;
+  font-size: 2rem;
+  padding: 0.25rem 2rem;
+  color: white;
+  margin-left: 1rem;
+}
+
+.input {
+  font-size: 2rem;
+}
+
+.todo {
+  position: relative;
+  padding: 0.25rem;
+  margin-top: 1rem;
+  background-color: #26a69a;;
+}
+
+.close {
+  position: absolute;
+  right: 0;
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+  margin-right: 1rem;
+}
+
+.todo-list {
+  max-width: 500px;
+  margin: auto;
+}
